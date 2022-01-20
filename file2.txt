@@ -1,2 +1,1 @@
-Goodbye, GIT!!! See you!
-Line from user2
+Hello, GIT!!! See you, user2!
