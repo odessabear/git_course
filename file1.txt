@@ -1,2 +1,6 @@
 Hello, GIT!!!
+<<<<<<< HEAD
 How are you, user2?
+=======
+How are you, user1?
+>>>>>>> 26714bebe1e5704024aca9985f2bb1a297f69138
