@@ -1,1 +1,2 @@
-Hello, GIT!!! How are you, user1?
+Hello, GIT!!!
+How are you, user2?
