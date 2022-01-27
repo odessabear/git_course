@@ -2,3 +2,4 @@ Hello, GIT!
 How are you, this is user2?
 How are you, this is user1?
 Add new fiture
+User1 line from rebase lesson
