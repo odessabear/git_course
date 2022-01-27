@@ -1,1 +1,2 @@
 Hello, GIT!!! See you, user2!
+Critical bug fixed!
