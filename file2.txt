@@ -1,2 +1,3 @@
-Hello, GIT!!! See you, user2!
+Hello, GIT!!!
 Critical bug fixed!
+User2 line from rebase lesson
